@@ -1,3 +1,3 @@
-# shina.org 
-A Living Language 
+# A Living Language
+
 Author: Muneeb Nazeem
